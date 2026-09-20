@@ -1,0 +1,35 @@
+complaint_id,city,ward,description,timestamp
+C001,Kolkata,Park Circus,"Heavy waterlogging near the crossing, water is entering ground floor shops, this happens every monsoon.",2026-09-16 06:45
+C002,Kolkata,Park Circus,"Waterlogging again on the same street, kids can't walk to school, water is above ankle level.",2026-09-16 08:10
+C003,Kolkata,Salt Lake,"Water is standing knee-deep on the main road near my house since yesterday's rain, cars are stalling.",2026-09-14 08:12
+C004,Kolkata,Salt Lake,"The streetlight outside Block C has been off for two weeks, it's very dark at night.",2026-09-14 19:40
+C033,Kolkata,Girih Park,"Drainage issue near the colony, water pooling after rain.",2026-09-16 07:00
+C034,Kolkata,Girih Park,"Garbage collection delayed in our area this week.",2026-09-15 09:30
+C005,Mumbai,Kurla,"Road completely submerged near the station, local trains are delayed and people are wading through water.",2026-09-15 07:30
+C006,Mumbai,Kurla,"Garbage piling up near the market for four days, smell is unbearable.",2026-09-15 12:00
+C007,Mumbai,Andheri,"Underpass flooded again, two-wheelers stuck, same spot as every year during heavy rain.",2026-09-16 07:00
+C008,Mumbai,Andheri,"No streetlights on the service road, very unsafe walking home at night.",2026-09-14 21:15
+C009,Delhi,Karol Bagh,"Drain completely choked, water overflowing onto the main road after last night's rain.",2026-09-16 08:20
+C010,Delhi,Karol Bagh,"Pothole near the market has gotten dangerously deep, a cyclist fell yesterday.",2026-09-15 17:40
+C011,Delhi,Rohini,"Water stagnation near the housing society gate for two days, mosquito breeding risk is high.",2026-09-16 09:00
+C012,Delhi,Rohini,"No water supply in our block since this morning.",2026-09-15 10:10
+C013,Bengaluru,Koramangala,"Manhole cover missing near the bus stop, dangerous especially after dark.",2026-09-15 20:30
+C014,Bengaluru,Koramangala,"Garbage bin overflowing near the metro station for the past week.",2026-09-16 12:40
+C015,Bengaluru,Whitefield,"Road flooded near the tech park entrance, water entered the basement parking.",2026-09-16 08:45
+C016,Bengaluru,Whitefield,"Loud construction noise starting before 6 AM, disturbing residents.",2026-09-15 06:15
+C017,Chennai,T Nagar,"Waterlogging near the market again, shopkeepers had to shut early, same as last monsoon.",2026-09-17 07:20
+C018,Chennai,T Nagar,"Streetlight flickering and going off completely on our lane.",2026-09-14 20:00
+C019,Chennai,Velachery,"Heavy flooding near the lake area, water entering ground-floor homes since last night.",2026-09-17 06:50
+C020,Chennai,Velachery,"Stray dog issue near the school gate, parents are worried.",2026-09-16 15:10
+C021,Hyderabad,Secunderabad,"Drain overflow flooding the lane behind the market, second time this week.",2026-09-17 07:35
+C022,Hyderabad,Secunderabad,"Road caved in slightly near the crossing after water logged there for two days.",2026-09-17 09:20
+C023,Hyderabad,LB Nagar,"Water entering the ground floor of our building, drainage seems completely choked.",2026-09-17 07:15
+C024,Hyderabad,LB Nagar,"No water supply for the second day in our colony.",2026-09-16 11:00
+C025,Pune,Kothrud,"Waterlogged street after last night's rain, same low-lying spot as always.",2026-09-17 08:00
+C026,Pune,Kothrud,"Streetlights not working on the entire stretch near the crossing.",2026-09-14 20:20
+C027,Pune,Hadapsar,"Flooded underpass again, two-wheelers avoiding the route entirely.",2026-09-17 07:55
+C028,Pune,Hadapsar,"Garbage not collected from our lane for five days.",2026-09-15 09:30
+C029,Guwahati,Fancy Bazar,"Market area waterlogged again, water entering shops near the main crossing.",2026-09-17 07:10
+C030,Guwahati,Fancy Bazar,"Road damage near the bridge getting worse after the rain.",2026-09-16 16:00
+C031,Guwahati,Six Mile,"Water stagnating near the bus stand for three days, mosquito breeding risk.",2026-09-16 10:30
+C032,Guwahati,Six Mile,"No streetlights on the main road, unsafe at night.",2026-09-14 21:00

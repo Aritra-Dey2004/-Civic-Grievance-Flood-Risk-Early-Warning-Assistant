@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+google-generativeai
+groq
+Pillow
+googlemaps
+requests

@@ -1,0 +1,65 @@
+city,ward,date,rainfall_mm
+Kolkata,Park Circus,2026-09-14,40
+Kolkata,Park Circus,2026-09-15,55
+Kolkata,Park Circus,2026-09-16,90
+Kolkata,Park Circus,2026-09-17,95
+Kolkata,Salt Lake,2026-09-14,38
+Kolkata,Salt Lake,2026-09-15,22
+Kolkata,Salt Lake,2026-09-16,65
+Kolkata,Salt Lake,2026-09-17,58
+Mumbai,Kurla,2026-09-14,60
+Mumbai,Kurla,2026-09-15,85
+Mumbai,Kurla,2026-09-16,110
+Mumbai,Kurla,2026-09-17,120
+Mumbai,Andheri,2026-09-14,50
+Mumbai,Andheri,2026-09-15,70
+Mumbai,Andheri,2026-09-16,95
+Mumbai,Andheri,2026-09-17,88
+Delhi,Karol Bagh,2026-09-14,25
+Delhi,Karol Bagh,2026-09-15,40
+Delhi,Karol Bagh,2026-09-16,60
+Delhi,Karol Bagh,2026-09-17,55
+Delhi,Rohini,2026-09-14,20
+Delhi,Rohini,2026-09-15,30
+Delhi,Rohini,2026-09-16,35
+Delhi,Rohini,2026-09-17,28
+Bengaluru,Koramangala,2026-09-14,15
+Bengaluru,Koramangala,2026-09-15,18
+Bengaluru,Koramangala,2026-09-16,22
+Bengaluru,Koramangala,2026-09-17,20
+Bengaluru,Whitefield,2026-09-14,30
+Bengaluru,Whitefield,2026-09-15,45
+Bengaluru,Whitefield,2026-09-16,70
+Bengaluru,Whitefield,2026-09-17,65
+Chennai,T Nagar,2026-09-14,45
+Chennai,T Nagar,2026-09-15,65
+Chennai,T Nagar,2026-09-16,80
+Chennai,T Nagar,2026-09-17,90
+Chennai,Velachery,2026-09-14,55
+Chennai,Velachery,2026-09-15,80
+Chennai,Velachery,2026-09-16,100
+Chennai,Velachery,2026-09-17,115
+Hyderabad,Secunderabad,2026-09-14,35
+Hyderabad,Secunderabad,2026-09-15,50
+Hyderabad,Secunderabad,2026-09-16,75
+Hyderabad,Secunderabad,2026-09-17,80
+Hyderabad,LB Nagar,2026-09-14,40
+Hyderabad,LB Nagar,2026-09-15,60
+Hyderabad,LB Nagar,2026-09-16,85
+Hyderabad,LB Nagar,2026-09-17,70
+Pune,Kothrud,2026-09-14,30
+Pune,Kothrud,2026-09-15,45
+Pune,Kothrud,2026-09-16,58
+Pune,Kothrud,2026-09-17,52
+Pune,Hadapsar,2026-09-14,35
+Pune,Hadapsar,2026-09-15,50
+Pune,Hadapsar,2026-09-16,65
+Pune,Hadapsar,2026-09-17,60
+Guwahati,Fancy Bazar,2026-09-14,50
+Guwahati,Fancy Bazar,2026-09-15,70
+Guwahati,Fancy Bazar,2026-09-16,95
+Guwahati,Fancy Bazar,2026-09-17,100
+Guwahati,Six Mile,2026-09-14,40
+Guwahati,Six Mile,2026-09-15,55
+Guwahati,Six Mile,2026-09-16,68
+Guwahati,Six Mile,2026-09-17,62
