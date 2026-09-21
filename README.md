@@ -116,7 +116,7 @@ The app will:
 ## 📊 Interface Overview
 
 ### Tab 1: 📝 Submit Complaint
-
+<img width="1653" height="812" alt="Screenshot 2026-09-21 004520" src="https://github.com/user-attachments/assets/0cd851cf-9c61-47ae-9660-fad4f84190e7" />
 * Auto-detected city & ward
 * Google Places search for precise location
 * Text description + photo upload
@@ -124,6 +124,7 @@ The app will:
 * Alert logged automatically
 
 ### Tab 2: 🗺️ Flood-Risk Dashboard
+<img width="1540" height="822" alt="Screenshot 2026-09-21 004650" src="https://github.com/user-attachments/assets/bf977ad9-778e-4dae-bc7e-3ed33e55ec6c" />
 
 * Real-time ward risk ranking
 * Risk score visualization
@@ -132,6 +133,7 @@ The app will:
 * High-risk warnings
 
 ### Tab 3: 🔔 Department Alerts
+<img width="1791" height="857" alt="Screenshot 2026-09-21 004800" src="https://github.com/user-attachments/assets/bea809d9-62b3-48a2-9eba-4668972523c0" />
 
 * Live alert log (timestamped)
 * Priority indicators
@@ -139,6 +141,7 @@ The app will:
 * High-priority counter
 
 ### Tab 4: ℹ️ About & Responsible AI
+<img width="1812" height="608" alt="Screenshot 2026-09-21 004830" src="https://github.com/user-attachments/assets/b9a21f96-4c28-4851-8b54-76e0381bd6a3" />
 
 * Problem statement & SDG alignment
 * Fairness & transparency notes
